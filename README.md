@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hi there 👋 Welcome to my GitHub!
 🔭 I’m currently learning Data Engineering, Machine Learning & Generative AI  <br>👯 I’m looking to collaborate on AI, GenAI and Data Engineering projects  <br>🤝 I’m looking for help with scalable AI systems and MLOps workflows  <br>🌱 B-Tech IT undergraduate exploring production-ready AI applications  <br>💬 Ask me about Python, ML, GenAI, RAG, FastAPI, PySpark and Data Analytics  <br>⚡ Fun fact: I started with data analytics and slowly evolved into building full AI systems
 
 
